@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-noto-sans: "Noto Sans";
+  --font-koulen: Koulen;
+
+  /* font sizes */
+  --font-size-6xl: 25px;
+  --font-size-xl: 20px;
+  --font-size-31xl: 50px;
+  --font-size-4xl: 23px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-gray-100: rgba(0, 0, 0, 0.35);
+  --color-azure: #e9f8f6;
+  --color-gainsboro: #d9d9d9;
+  --color-white: #fff;
+  --color-seagreen: #186039;
+  --color-mediumseagreen-100: #61c36b;
+  --color-mediumseagreen-200: #6ab972;
+}
