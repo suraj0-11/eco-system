@@ -1,3 +1,12 @@
+body {
+  background-color: black;
+}
+.container {
+  background-color: black !important;
+}
+html, body {
+  background-color: black;
+}
 .ecotest-child,
 .freddie-ardley-1 {
   position: absolute;
